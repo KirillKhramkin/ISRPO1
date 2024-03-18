@@ -25,6 +25,9 @@ namespace lll
             InitializeComponent();
         }
 
-      
+        private void btn1_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }
