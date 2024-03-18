@@ -10,21 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace lll
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Логика взаимодействия для NewWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class NewWindow : Window
     {
-        public MainWindow()
+        public NewWindow()
         {
             InitializeComponent();
         }
-
-      
     }
 }
