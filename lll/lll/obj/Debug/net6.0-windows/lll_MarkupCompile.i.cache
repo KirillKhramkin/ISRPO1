@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\noname\source\repos\lll\lll\obj\Debug\net6.0-windows\
+C:\Users\noname\ISRPO1\lll\lll\obj\Debug\net6.0-windows\
 lll
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\noname\source\repos\lll\lll\App.xaml
-11407045341
+C:\Users\noname\ISRPO1\lll\lll\App.xaml
+2416618954
 
-5-920190663
+6-721056628
 1941709816142
-MainWindow.xaml;
+MainWindow.xaml;NewWindow.xaml;
 
-False
+True
 
